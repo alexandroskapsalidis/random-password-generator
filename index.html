@@ -11,7 +11,7 @@
 
 <body>
 
-   <div class="container">
+  <div class="container">
     <h1>Random Password Generator</h1>
     <!-- The length of the password -->
     <label for="textBox">Length:</label>
@@ -21,25 +21,25 @@
     <div class="options">
       <input type="checkbox" id="includeLowerCase" name="includeLowerCase">
       <label for="includeLowerCase">Include Lower Case Letters</label><br>
-  
+
       <input type="checkbox" id="includeUpperCase" name="includeUpperCase">
       <label for="includeUpperCase">Include Upper Case Letters</label><br>
-  
+
       <input type="checkbox" id="includeNumbers" name="includeNumbers">
       <label for="includeNumbers">Include Numbers</label><br>
-  
+
       <input type="checkbox" id="includeSymbols" name="includeSymbols">
       <label for="includeSymbols">Include Symbols</label><br>
     </div>
 
 
-    <!-- Button to trigger  -->
+    <!-- Button to trigger the getData() function -->
     <button type="button" onclick="getData()">Generate</button>
 
     <!-- Result display -->
     <p id="result">#########</p>
-   </div>
-  
+  </div>
+
 
   <script src="index.js"></script>
 </body>
