@@ -7,6 +7,7 @@ types of characters to include:
 - symbols
 Once the options are set, clicking the “Generate” button produces a secure random password instantly.
 
-                          ![image](https://github.com/user-attachments/assets/b18d9a0c-3f8d-4456-a6a5-456e4236bd25)
+![image](https://github.com/user-attachments/assets/5642554d-a582-4db4-8c27-f098b10d2f74)
+
 
 
