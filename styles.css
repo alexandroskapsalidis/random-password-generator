@@ -1,0 +1,65 @@
+
+/* Styling for Temperature Conversion Form */
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: hsl(0, 0%, 90%);
+}
+
+h1 {
+  color: rgb(31, 142, 206);
+}
+
+.container {
+  background-color: hsl(0, 0%, 100%);
+  text-align: center;
+  max-width: 450px;
+  margin: auto;
+  padding: 25px;
+  border-radius: 10px;
+  box-shadow: 5px 5px 15px rgba(109, 109, 109, 0.42);
+}
+
+#textBox {
+  width: 20%;
+  text-align: center;
+  font-size: 2em;
+  border: 2px solid rgba(105, 104, 104, 0.459);
+  border-radius: 4px;
+  margin-bottom: 15px;
+}
+
+label {
+  font-size: 1.5em;
+  font-weight: bold;
+}
+
+.options {
+  text-align: left;
+  margin-left: 13%;
+}
+
+button {
+  margin-top: 15px;
+  background-color: hsl(0, 76%, 53%);
+  color: white;
+  font-size: 1.5em;
+  border: none;
+  padding: 10px 15px;
+  border-radius: 5px;
+  color: white;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: hsl(0, 76%, 63%);
+}
+
+button:active {
+  background-color: hsl(0, 76%, 73%);
+}
+
+#result {
+  font-size: 1.75em;
+  font-weight: bold;
+}
