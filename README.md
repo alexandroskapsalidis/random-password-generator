@@ -7,8 +7,8 @@ types of characters to include:
 - symbols
 Once the options are set, clicking the “Generate” button produces a secure random password instantly.
 
-[View project on GitHub Pages ↗️]![image](https://github.com/user-attachments/assets/5642554d-a582-4db4-8c27-f098b10d2f74)
+![image](https://github.com/user-attachments/assets/5642554d-a582-4db4-8c27-f098b10d2f74)
 
-View project => https://alexandroskapsalidis.github.io/random-password-generator/
+[View project on GitHub Pages ↗️] => https://alexandroskapsalidis.github.io/random-password-generator/
 
 
